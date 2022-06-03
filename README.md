@@ -69,6 +69,7 @@ Where F is the probability distribution determined by basic frequency analysis, 
 * char_generator.py - Python script based on the Jupyter Notebook above, training a network based on the corpus of text from Anna Katerina
 * anna.txt - Training text used to train network. Validation text is selected randomly from 10% of this file
 * caesar2.py - Python script to solve a substitution cipher with brute force, instead of a neural network, to use as a benchmark. This script solves the same cipher from the test_caesar.py script in about three minutes. **Runs in Linux only**
+* caesar_output.txt - Sample output from caesar2.py
 
 # Implementation
 
