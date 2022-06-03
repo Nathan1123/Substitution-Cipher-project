@@ -1,0 +1,525 @@
+mitkuoadroahitl ha wol htsees vhruic ane pidle wni laire ane yeola bda ne nos nerg ite ndtsues ots erefet iy vhruicl yduuc ueroahfel nhs aneplerfel ht ane nidle ots ouidts ane kouset ots oa erefet phtdael ai erefet anec orr lmopgeues htai ane botqdea norr whan vhruic ots oae dg orr iy niuomel beodahydr yiis ots tiw xdla ai lniw niw mrefeu cid oue mot cid yhts ite ndtsues ots erefet phme nhsset ht ane ghmaduel noggc ndtahtk
+
+Current distance: 1.705128205128205
+Unmapped letters: 
+
+Word 0|78
+Next word guess: congratulations
+congratulations it was insees vilroc tne pouse wno stole tne yeast but ne nas nelg one nunsres ans elefen oy vilrocs yurrc relatifes nis tnepselfes in tne nouse ans arouns tne garsen ans at elefen pinutes to elefen tnec all scapgeres into tne banquet nall witn vilroc ans ate ug all oy noraces beautiyul yoos ans now xust to snow now clefer cou are can cou yins one nunsres ans elefen pice nissen in tne gictures naggc nunting
+
+Current distance: 0.8461538461538461
+Unmapped letters: ehdmfywpbvkxqjz
+
+Word 1|78
+Next word guess: it
+congratulations it was insees vilroc tne pouse wno stole tne yeast but ne nas nelg one nunsres ans elefen oy vilrocs yurrc relatifes nis tnepselfes in tne nouse ans arouns tne garsen ans at elefen pinutes to elefen tnec all scapgeres into tne banquet nall witn vilroc ans ate ug all oy noraces beautiyul yoos ans now xust to snow now clefer cou are can cou yins one nunsres ans elefen pice nissen in tne gictures naggc nunting
+
+Current distance: 0.8461538461538461
+Unmapped letters: ehdmfywpbvkxqjz
+
+Word 2|78
+Next word guess: was
+congratulations it was insees vilroc tne pouse wno stole tne yeast but ne nas nelg one nunsres ans elefen oy vilrocs yurrc relatifes nis tnepselfes in tne nouse ans arouns tne garsen ans at elefen pinutes to elefen tnec all scapgeres into tne banquet nall witn vilroc ans ate ug all oy noraces beautiyul yoos ans now xust to snow now clefer cou are can cou yins one nunsres ans elefen pice nissen in tne gictures naggc nunting
+
+Current distance: 0.8461538461538461
+Unmapped letters: ehdmfypbvkxqjz
+
+Word 3|78
+Next word guess: indeed
+congratulations it was indeed vilroc tne pouse wno stole tne yeast but ne nad nelg one nundred and elefen oy vilrocs yurrc relatifes nid tnepselfes in tne nouse and around tne garden and at elefen pinutes to elefen tnec all scapgered into tne banquet nall witn vilroc and ate ug all oy noraces beautiyul yood and now xust to snow now clefer cou are can cou yind one nundred and elefen pice nidden in tne gictures naggc nunting
+
+Current distance: 0.6923076923076923
+Unmapped letters: hmfypbvkxqjz
+
+Word 4|78
+Next word guess: kilroy
+congratulations it was indeed kilroy tne pouse wno stole tne yeast but ne nad nelg one nundred and elefen oy kilroys yurry relatifes nid tnepselfes in tne nouse and around tne garden and at elefen pinutes to elefen tney all scapgered into tne banquet nall witn kilroy and ate ug all oy noraces beautiyul yood and now xust to snow now clefer you are can you yind one nundred and elefen pice nidden in tne gictures naggy nunting
+
+Current distance: 0.5512820512820513
+Unmapped letters: hmfpbvxqjz
+
+Word 5|78
+Next word guess: the
+congratulations it was indeed kilroy the pouse who stole the yeast but he had helg one hundred and elefen oy kilroys yurry relatifes hid thepselfes in the house and around the garden and at elefen pinutes to elefen they all scapgered into the banquet hall with kilroy and ate ug all oy horaces beautiyul yood and now xust to show how clefer you are can you yind one hundred and elefen pice hidden in the gictures haggy hunting
+
+Current distance: 0.3076923076923077
+Unmapped letters: mfpbvxqjz
+
+Word 6|78
+Next word guess: mouse
+congratulations it was indeed kilroy the mouse who stole the yeast but he had helg one hundred and elefen oy kilroys yurry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scamgered into the banquet hall with kilroy and ate ug all oy horaces beautiyul yood and now xust to show how clefer you are can you yind one hundred and elefen mice hidden in the gictures haggy hunting
+
+Current distance: 0.24358974358974358
+Unmapped letters: fpbvxqjz
+
+Word 7|78
+Next word guess: who
+congratulations it was indeed kilroy the mouse who stole the yeast but he had helg one hundred and elefen oy kilroys yurry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scamgered into the banquet hall with kilroy and ate ug all oy horaces beautiyul yood and now xust to show how clefer you are can you yind one hundred and elefen mice hidden in the gictures haggy hunting
+
+Current distance: 0.24358974358974358
+Unmapped letters: fpbvxqjz
+
+Word 8|78
+Next word guess: stole
+congratulations it was indeed kilroy the mouse who stole the yeast but he had helg one hundred and elefen oy kilroys yurry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scamgered into the banquet hall with kilroy and ate ug all oy horaces beautiyul yood and now xust to show how clefer you are can you yind one hundred and elefen mice hidden in the gictures haggy hunting
+
+Current distance: 0.24358974358974358
+Unmapped letters: fpbvxqjz
+
+Word 9|78
+Next word guess: the
+congratulations it was indeed kilroy the mouse who stole the yeast but he had helg one hundred and elefen oy kilroys yurry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scamgered into the banquet hall with kilroy and ate ug all oy horaces beautiyul yood and now xust to show how clefer you are can you yind one hundred and elefen mice hidden in the gictures haggy hunting
+
+Current distance: 0.24358974358974358
+Unmapped letters: fpbvxqjz
+
+Word 10|78
+Next word guess: beast
+congratulations it was indeed kilroy the mouse who stole the beast but he had helg one hundred and elefen ob kilroys burry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scamgered into the banquet hall with kilroy and ate ug all ob horaces beautibul bood and now xust to show how clefer you are can you bind one hundred and elefen mice hidden in the gictures haggy hunting
+
+Current distance: 0.20512820512820512
+Unmapped letters: fpvxqjz
+
+Word 11|78
+Next word guess: jut
+congratulations it was indeed kilroy the mouse who stole the beast jut he had helg one hundred and elefen ob kilroys burry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scamgered into the janquet hall with kilroy and ate ug all ob horaces jeautibul bood and now xust to show how clefer you are can you bind one hundred and elefen mice hidden in the gictures haggy hunting
+
+Current distance: 0.23076923076923078
+Unmapped letters: fpvxqz
+
+Word 12|78
+Next word guess: he
+congratulations it was indeed kilroy the mouse who stole the beast jut he had helg one hundred and elefen ob kilroys burry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scamgered into the janquet hall with kilroy and ate ug all ob horaces jeautibul bood and now xust to show how clefer you are can you bind one hundred and elefen mice hidden in the gictures haggy hunting
+
+Current distance: 0.23076923076923078
+Unmapped letters: fpvxqz
+
+Word 13|78
+Next word guess: had
+congratulations it was indeed kilroy the mouse who stole the beast jut he had helg one hundred and elefen ob kilroys burry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scamgered into the janquet hall with kilroy and ate ug all ob horaces jeautibul bood and now xust to show how clefer you are can you bind one hundred and elefen mice hidden in the gictures haggy hunting
+
+Current distance: 0.23076923076923078
+Unmapped letters: fpvxqz
+
+Word 14|78
+Next word guess: help
+congratulations it was indeed kilroy the mouse who stole the beast jut he had help one hundred and elefen ob kilroys burry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scampered into the janquet hall with kilroy and ate up all ob horaces jeautibul bood and now xust to show how clefer you are can you bind one hundred and elefen mice hidden in the pictures happy hunting
+
+Current distance: 0.16666666666666666
+Unmapped letters: fvxqz
+
+Word 15|78
+Next word guess: one
+congratulations it was indeed kilroy the mouse who stole the beast jut he had help one hundred and elefen ob kilroys burry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scampered into the janquet hall with kilroy and ate up all ob horaces jeautibul bood and now xust to show how clefer you are can you bind one hundred and elefen mice hidden in the pictures happy hunting
+
+Current distance: 0.16666666666666666
+Unmapped letters: fvxqz
+
+Word 16|78
+Next word guess: hundred
+congratulations it was indeed kilroy the mouse who stole the beast jut he had help one hundred and elefen ob kilroys burry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scampered into the janquet hall with kilroy and ate up all ob horaces jeautibul bood and now xust to show how clefer you are can you bind one hundred and elefen mice hidden in the pictures happy hunting
+
+Current distance: 0.16666666666666666
+Unmapped letters: fvxqz
+
+Word 17|78
+Next word guess: and
+congratulations it was indeed kilroy the mouse who stole the beast jut he had help one hundred and elefen ob kilroys burry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scampered into the janquet hall with kilroy and ate up all ob horaces jeautibul bood and now xust to show how clefer you are can you bind one hundred and elefen mice hidden in the pictures happy hunting
+
+Current distance: 0.16666666666666666
+Unmapped letters: fvxqz
+
+Word 18|78
+Next word guess: eleven
+congratulations it was indeed kilroy the mouse who stole the beast jut he had help one hundred and eleven ob kilroys burry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the janquet hall with kilroy and ate up all ob horaces jeautibul bood and now xust to show how clever you are can you bind one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.07692307692307693
+Unmapped letters: fxqz
+
+Word 19|78
+Next word guess: ob
+congratulations it was indeed kilroy the mouse who stole the beast jut he had help one hundred and eleven ob kilroys burry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the janquet hall with kilroy and ate up all ob horaces jeautibul bood and now xust to show how clever you are can you bind one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.07692307692307693
+Unmapped letters: fxqz
+
+Word 20|78
+Next word guess: kilroys
+congratulations it was indeed kilroy the mouse who stole the beast jut he had help one hundred and eleven ob kilroys burry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the janquet hall with kilroy and ate up all ob horaces jeautibul bood and now xust to show how clever you are can you bind one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.07692307692307693
+Unmapped letters: fxqz
+
+Word 21|78
+Word 20|78
+Word 19|78
+Word 18|78
+Word 17|78
+Word 16|78
+Word 15|78
+Word 14|78
+Word 13|78
+Word 12|78
+Word 11|78
+Next word guess: put
+congratulations it was indeed kilroy the mouse who stole the beast put he had helg one hundred and elefen ob kilroys burry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scamgered into the panquet hall with kilroy and ate ug all ob horaces peautibul bood and now xust to show how clefer you are can you bind one hundred and elefen mice hidden in the gictures haggy hunting
+
+Current distance: 0.23076923076923078
+Unmapped letters: fvxqjz
+
+Word 12|78
+Next word guess: he
+congratulations it was indeed kilroy the mouse who stole the beast put he had helg one hundred and elefen ob kilroys burry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scamgered into the panquet hall with kilroy and ate ug all ob horaces peautibul bood and now xust to show how clefer you are can you bind one hundred and elefen mice hidden in the gictures haggy hunting
+
+Current distance: 0.23076923076923078
+Unmapped letters: fvxqjz
+
+Word 13|78
+Next word guess: had
+congratulations it was indeed kilroy the mouse who stole the beast put he had helg one hundred and elefen ob kilroys burry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scamgered into the panquet hall with kilroy and ate ug all ob horaces peautibul bood and now xust to show how clefer you are can you bind one hundred and elefen mice hidden in the gictures haggy hunting
+
+Current distance: 0.23076923076923078
+Unmapped letters: fvxqjz
+
+Word 14|78
+Word 13|78
+Word 12|78
+Word 11|78
+Word 10|78
+Next word guess: feast
+congratulations it was indeed kilroy the mouse who stole the feast but he had helg one hundred and elefen of kilroys furry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scamgered into the banquet hall with kilroy and ate ug all of horaces beautiful food and now xust to show how clefer you are can you find one hundred and elefen mice hidden in the gictures haggy hunting
+
+Current distance: 0.16666666666666666
+Unmapped letters: pbvxqjz
+
+Word 11|78
+Next word guess: but
+congratulations it was indeed kilroy the mouse who stole the feast but he had helg one hundred and elefen of kilroys furry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scamgered into the banquet hall with kilroy and ate ug all of horaces beautiful food and now xust to show how clefer you are can you find one hundred and elefen mice hidden in the gictures haggy hunting
+
+Current distance: 0.16666666666666666
+Unmapped letters: pvxqjz
+
+Word 12|78
+Next word guess: he
+congratulations it was indeed kilroy the mouse who stole the feast but he had helg one hundred and elefen of kilroys furry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scamgered into the banquet hall with kilroy and ate ug all of horaces beautiful food and now xust to show how clefer you are can you find one hundred and elefen mice hidden in the gictures haggy hunting
+
+Current distance: 0.16666666666666666
+Unmapped letters: pvxqjz
+
+Word 13|78
+Next word guess: had
+congratulations it was indeed kilroy the mouse who stole the feast but he had helg one hundred and elefen of kilroys furry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scamgered into the banquet hall with kilroy and ate ug all of horaces beautiful food and now xust to show how clefer you are can you find one hundred and elefen mice hidden in the gictures haggy hunting
+
+Current distance: 0.16666666666666666
+Unmapped letters: pvxqjz
+
+Word 14|78
+Next word guess: help
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and elefen of kilroys furry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clefer you are can you find one hundred and elefen mice hidden in the pictures happy hunting
+
+Current distance: 0.10256410256410256
+Unmapped letters: vxqjz
+
+Word 15|78
+Next word guess: one
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and elefen of kilroys furry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clefer you are can you find one hundred and elefen mice hidden in the pictures happy hunting
+
+Current distance: 0.10256410256410256
+Unmapped letters: vxqjz
+
+Word 16|78
+Next word guess: hundred
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and elefen of kilroys furry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clefer you are can you find one hundred and elefen mice hidden in the pictures happy hunting
+
+Current distance: 0.10256410256410256
+Unmapped letters: vxqjz
+
+Word 17|78
+Next word guess: and
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and elefen of kilroys furry relatifes hid themselfes in the house and around the garden and at elefen minutes to elefen they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clefer you are can you find one hundred and elefen mice hidden in the pictures happy hunting
+
+Current distance: 0.10256410256410256
+Unmapped letters: vxqjz
+
+Word 18|78
+Next word guess: eleven
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 19|78
+Next word guess: of
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 20|78
+Next word guess: kilroys
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 21|78
+Next word guess: furry
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 22|78
+Next word guess: relatives
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 23|78
+Next word guess: hid
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 24|78
+Next word guess: themselves
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 25|78
+Next word guess: in
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 26|78
+Next word guess: the
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 27|78
+Next word guess: house
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 28|78
+Next word guess: and
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 29|78
+Next word guess: around
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 30|78
+Next word guess: the
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 31|78
+Next word guess: garden
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 32|78
+Next word guess: and
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 33|78
+Next word guess: at
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 34|78
+Next word guess: eleven
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 35|78
+Next word guess: minutes
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 36|78
+Next word guess: to
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 37|78
+Next word guess: eleven
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 38|78
+Next word guess: they
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 39|78
+Next word guess: all
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 40|78
+Next word guess: scampered
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 41|78
+Next word guess: into
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 42|78
+Next word guess: the
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xqjz
+
+Word 43|78
+Next word guess: banquet
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xjz
+
+Word 44|78
+Next word guess: hall
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xjz
+
+Word 45|78
+Next word guess: with
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xjz
+
+Word 46|78
+Next word guess: kilroy
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xjz
+
+Word 47|78
+Next word guess: and
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xjz
+
+Word 48|78
+Next word guess: ate
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xjz
+
+Word 49|78
+Next word guess: up
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xjz
+
+Word 50|78
+Next word guess: all
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xjz
+
+Word 51|78
+Next word guess: of
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xjz
+
+Word 52|78
+Next word guess: horaces
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xjz
+
+Word 53|78
+Next word guess: beautiful
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xjz
+
+Word 54|78
+Next word guess: food
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xjz
+
+Word 55|78
+Next word guess: and
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xjz
+
+Word 56|78
+Next word guess: now
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now xust to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.01282051282051282
+Unmapped letters: xjz
+
+Word 57|78
+Next word guess: just
+congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now just to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
+
+Current distance: 0.0
+Unmapped letters: xz
+
+Decryption successful
+Total time: 86 rounds (211.1367564201355 s)
