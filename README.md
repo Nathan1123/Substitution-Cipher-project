@@ -100,6 +100,8 @@ This is supposed to translate to:
 
 congratulations it was indeed kilroy the mouse who stole the feast but he had help one hundred and eleven of kilroys furry relatives hid themselves in the house and around the garden and at eleven minutes to eleven they all scampered into the banquet hall with kilroy and ate up all of horaces beautiful food and now just to show how clever you are can you find one hundred and eleven mice hidden in the pictures happy hunting
 
+In the book, the substitution cipher was a simple shift-implementation, mapping the letter A to K (for Kilroy), and exrapolating from there. 
+
 ## Results
 
 The network trained over the course of a couple of days, completing a single epoch. The final value of the validation set was about 2.6, which was not much smaller than it started out at 2.9. The decryption test resulted in an accuracy of 0.06, which isn't much better than randomly guessing (0.03). It seems that the probability distributions were also never fully certain, with the highest probability ranging from 10-30% at most. It is unclear if this was the best possible result, or if something was wrong in the implementation. 
