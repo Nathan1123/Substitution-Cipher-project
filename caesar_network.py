@@ -1,5 +1,3 @@
-import string
-
 import numpy as np
 import torch
 from torch import nn
@@ -252,6 +250,7 @@ def decrypt(net, ciphertext, freq_prop=0.5, top_k=5):
 
     # Clean inputs
     cipher = ''.join([c.lower() for c in ciphertext if c.isalpha()])
+    cipher = encode(cipher, net.chars)
     # Frequency analysis
     freq = [cipher.count(c) for c in net.chars]
     # Prepare network
